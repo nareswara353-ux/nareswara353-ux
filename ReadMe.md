@@ -12,9 +12,6 @@ Nareswara | Full-Stack & Systems Developer 💻<br><br>"Building spaceships just
 ![](https://streak-stats.demolab.com/?user=nareswara353-ux&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nareswara353-ux&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=nareswara353-ux&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nareswara353-ux//output/pacman-contribution-graph.svg">
