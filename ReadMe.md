@@ -15,4 +15,8 @@ Nareswara | Full-Stack & Systems Developer 💻<br><br>"Building spaceships just
 ---
 [![](https://komarev.com/ghpvc/?username=nareswara353-ux&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nareswara353-ux//output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/output/pacman-contribution-graph.svg">
+</picture>
