@@ -17,3 +17,6 @@ Nareswara | Full-Stack & Systems Developer 💻<br><br>"Building spaceships just
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nareswara353-ux//output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/output/pacman-contribution-graph.svg">
 </picture>
+
+<!-- my-badges start -->
+<!-- my-badges end -->
