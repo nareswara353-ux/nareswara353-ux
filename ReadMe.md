@@ -150,8 +150,8 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nareswara353-ux&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="nareswara353-ux's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareswara353-ux&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nareswara353-ux&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="nareswara353-ux's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareswara353-ux&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -170,7 +170,7 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
   <img src="https://komarev.com/ghpvc/?username=nareswara353-ux&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
 </p>
 
-> Note: stats cards above are served live by third-party renderers (github-readme-stats / trophy / activity-graph). If GitHub's image proxy briefly fails to cache them, just refresh the page — the underlying data is still accurate.
+> Note: the stats and top-languages cards are rendered live by the free public `github-readme-stats.vercel.app` service. It's shared by millions of GitHub profiles and occasionally hits GitHub's API rate limit during busy periods, which can show up as a broken image for a while. If it stays broken for more than a day, the reliable fix is self-hosting your own instance (deploy your own fork on Vercel with your own token) — happy to help set that up if you want it permanently stable.
 
 ---
 
