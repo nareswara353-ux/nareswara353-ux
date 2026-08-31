@@ -149,17 +149,16 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nareswara353-ux&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" alt="nareswara353-ux's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareswara353-ux&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=1800" alt="Top Languages" />
-</p>
+### GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nareswara353-ux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Profile Summary Card (Statistik Bahasa & Aktivitas Lengkap) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nareswara353-ux&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nareswara353-ux&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nareswara353-ux&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
