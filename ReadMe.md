@@ -154,7 +154,7 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nareswara353-ux&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nareswara353-ux&theme=tokyonight" alt="GitHub Statistics" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nareswara353-ux&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -165,6 +165,7 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nareswara353-ux&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
 </p>
+
 ---
 
 ### Connect With Me
