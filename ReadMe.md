@@ -162,13 +162,12 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nareswara353-ux/trophy-output/trophy.svg" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/trophy-output/trophy.svg" alt="Trophies" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nareswara353-ux&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
 </p>
-
 ---
 
 ### Connect With Me
