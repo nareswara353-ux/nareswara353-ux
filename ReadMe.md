@@ -162,7 +162,7 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/trophy-output/trophy.svg" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/nareswara353-ux/trophy-output/trophy.svg" alt="Trophies" />
 </p>
 
 <p align="center">
