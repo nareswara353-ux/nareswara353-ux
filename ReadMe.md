@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Radhitya Putra Nareswara 👋</h1>
+<h1 align="center">Hi there, I'm Radhitya Putra Nareswara</h1>
 <h3 align="center">Fullstack Developer • Systems & Full-Stack Architect</h3>
 
 <p align="center">
