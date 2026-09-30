@@ -154,11 +154,6 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nareswara353-ux&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<img src="https://raw.githubusercontent.com/nareswara353-ux/nareswara353-ux/trophy-output/trophy.svg" alt="Trophies" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nareswara353-ux&label=Profile%20views&color=0891b2&style=flat-square" alt="Profile views" />
-</p>
 
 ---
 
