@@ -19,11 +19,11 @@
 
 I am a software engineer dedicated to building high-performance, resilient, and bleeding-edge digital systems. My approach treats development as a discipline of precision, micro-optimization, and zero latency — turning standard web requirements into scalable, enterprise-grade ecosystems.
 
-- 🌍 Based in Pekalongan, Central Java, Indonesia
-- 🧠 Currently learning Python, Django, and more
-- 👥 Open to collaborating on enterprise-level projects
-- 💬 Ask me about architectural web design
-- ✉️ Reach me at [nareswara353@gmail.com](mailto:nareswara353@gmail.com)
+-  Based in Pekalongan, Central Java, Indonesia
+-  Currently learning Python, Django, and more
+-  Open to collaborating on enterprise-level projects
+-  Ask me about architectural web design
+-  Reach me at [nareswara353@gmail.com](mailto:nareswara353@gmail.com)
 
 ### Architectural Philosophy
 
@@ -148,10 +148,6 @@ Exploring the boundaries of decentralized finance protocols, real-world asset to
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nareswara353-ux&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nareswara353-ux&theme=tokyonight" alt="GitHub Statistics" />
